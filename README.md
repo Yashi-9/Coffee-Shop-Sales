@@ -6,9 +6,6 @@ Effective sales performance and customer engagement are critical to maintaining 
 
 This dataset includes transactional data from various retail locations, capturing key metrics such as sales revenue, category contributions, store performance, and customer purchasing behavior. It covers transaction timestamps, product categories, store locations, and sales figures, enabling trend identification and strategic decision-making.
 
-### Data analysis tool:
-
-Microsoft Excel
 
 ### Analysis Observations:
 
@@ -38,7 +35,17 @@ Microsoft Excel
 - Peak Hour: 10 AM
 
 - Transactions During Peak Hour: 26,713
+  
+##### Key Insights:
 
+- The highest transaction volume occurs at 10 AM across most store locations, indicating a strong morning sales trend. This suggests that morning promotions, such as breakfast combos or early-bird discounts, could further boost sales.
+
+- Footfall data reveals that stores with high weekday sales also experience peak transactions at 10 AM, while locations with lower foot traffic have a more evenly distributed transaction pattern throughout the day.
+
+- Monthly sales analysis indicates that the 10 AM peak remains consistent, but secondary peaks appear in the early afternoon during holiday seasons, likely driven by increased shopping activity.
+
+- Stores in high-traffic urban areas exhibit stronger morning sales, while suburban locations see higher activity in the late afternoon and early evening, aligning with commuter patterns.
+  
 #### 3. Category Revenue Contribution
 
 - Coffee: $269,952.45 (38.63% of total revenue)
